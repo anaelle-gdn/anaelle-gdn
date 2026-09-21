@@ -69,6 +69,8 @@ Refonte du **site d'un club de tennis en Flask**, réalisée sur une durée de 3
 - Python
 - Flask
 
+Lien du projet : https://github.com/mmia-univ-s3/sae2-tennis
+
 ---
 
 ## Formation
